@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="5" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="6" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">studentSSN</Data></Cell>
+			<Cell><Data ss:Type="String">FirstN</Data></Cell>
+			<Cell><Data ss:Type="String">LastN</Data></Cell>
+			<Cell><Data ss:Type="String">degreeProgram</Data></Cell>
+			<Cell><Data ss:Type="String">class</Data></Cell>
+			<Cell><Data ss:Type="String">majorDepartment</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">855000000</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan</Data></Cell>
+			<Cell><Data ss:Type="String">BA</Data></Cell>
+			<Cell><Data ss:Type="String">freshman</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000002</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin2</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan2</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">senior</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000003</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin3</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan3</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">senior</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000011</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin11</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan11</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">freshman</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000012</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin12</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan12</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">senior</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000013</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin13</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan13</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">senior</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000014</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin14</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan14</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">senior</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000015</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin15</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan15</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">Junior</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000016</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin16</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan16</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">Junior</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000017</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin17</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan17</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">freshman</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000018</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin18</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan18</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">Junior</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000019</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin19</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan19</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">Junior</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000020</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin20</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan20</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">Junior</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000025</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin25</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan25</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">senior</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000026</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin26</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan26</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">freshman</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">855000027</Data></Cell>
+			<Cell><Data ss:Type="String">Kefin27</Data></Cell>
+			<Cell><Data ss:Type="String">Sajan27</Data></Cell>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">senior</Data></Cell>
+			<Cell><Data ss:Type="String">Computer Science</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
