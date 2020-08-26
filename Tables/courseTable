@@ -1,0 +1,17 @@
+courseNumber,courseName,courseDescrip,credits,offeringDept,PreRequsites_CourseID
+1120,"GENERAL ANATOMY AND PHYSIOLOGY","Campus: Main, Schedule Type: Lecture, Instructional Method: Traditional",4,Biology,NULL
+1150," COLLEGE ALGEBRA","Campus: Main Schedule Type: Lecture Instructional Method: Traditional",4,Math,NULL
+1160,PRECALCULUS,"Campus: Main Schedule Type: Lecture Instructional Method: Traditional",3,Math,NULL
+1200,"HUMAN BIOLOGY","Campus: Main Schedule Type: Lecture Instructional Method: Traditional",4,Biology,NULL
+1600,"CALCULUS I","Campus: Main Schedule Type: Lecture Instructional Method: Traditional",4,Math,NULL
+1610,"CALCULUS II","Campus: Main Schedule Type: Lecture Instructional Method: Traditional",4,Math,NULL
+1630,"GENERAL BIOLOGY I","Campus: Main Schedule Type: Lecture Instructional Method: Traditional",4,Biology,NULL
+1640,"GENERAL BIOLOGY II","Campus: Main Schedule Type: Lecture Instructional Method: Traditional",4,Biology,NULL
+2010,"COMPUTER AND INFORMATION TECHNOLOGY","Campus: Main Schedule Type: Lecture Instructional Method: Traditional",3,"Computer Science",NULL
+2050,"CELL BIOLOGY","Campus: Main Schedule Type: Lecture Instructional Method: Traditional",4,Biology,NULL
+2300,"COMPUTER SCIENCE 1","Campus: Main Schedule Type: Lecture Instructional Method: Traditional",4,"Computer Science",NULL
+2400,"COMPUTER SCIENCE 2","Campus: Main Schedule Type: Lecture Instructional Method: Traditional",4,"Computer Science",NULL
+3240,"PROBABILITY AND STATISTICS","Campus: Main Schedule Type: Lecture Instructional Method: Traditional",4,Math,NULL
+3450,"DATA STRUCTURES","Campus: Main Schedule Type: Lecture Instructional Method: Traditional",4,"Computer Science",NULL
+4400,"DATABASE MANAGEMENT","Campus: Main Schedule Type: Lecture Instructional Method: Traditional",3,"Computer Science",NULL
+4800,"COMPUTER SEMINAR","Campus: Main Schedule Type: Lecture Instructional Method: Traditional",3,"Computer Science",NULL

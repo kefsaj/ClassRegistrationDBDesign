@@ -1,0 +1,30 @@
+studentSSN,username,FirstN,MiddleN,LastN,email,addressStreet,addressCity,addressSTATE,addressZIP,gender,class,degreeProgram,majorDepartment,minorDepartment,phoneNumber_Number,BIRTHDay,BIRTHMonth,BIRTHYear
+855000000," sajank",Kefin,K,Sajan,sajank@student.wpunj.edu,"Lafayette Ave",Dumont,NJ,07628,1,freshman,BA,"Computer Science",Math,2018888511,13,2,1998
+855000002," sajank2",Kefin2,K2,Sajan2,sajank2@student.wpunj.edu,"Lafayette2 Ave",Dumont2,NJ,07628,1,senior,BS,"Computer Science",NULL,2018888512,1,12,1998
+855000003," sajank3",Kefin3,K3,Sajan3,sajank3@student.wpunj.edu,"Lafayette3 Ave",Dumont3,NJ,07628,1,senior,BS,"Computer Science",NULL,2018888513,2,11,1998
+855000011,sajank11,Kefin11,K11,Sajan11,sajank11@student.wpunj.edu,"Lafayette11 Ave",Dumont11,NJ,07628,1,freshman,BS,"Computer Science",NULL,2018888111,3,1,1998
+855000012,sajank12,Kefin12,K12,Sajan12,sajank12@student.wpunj.edu,"Lafayette12 Ave",Dumont12,NJ,07628,1,senior,BS,"Computer Science",NULL,2018888512,4,2,1998
+855000013,sajank13,Kefin13,K13,Sajan13,sajank11@student.wpunj.edu,"Lafayette13 Ave",Dumont13,NJ,07628,1,senior,BS,"Computer Science",NULL,2018888113,5,6,1998
+855000014,sajank14,Kefin14,K14,Sajan14,sajank14@student.wpunj.edu,"Lafayette14 Ave",Dumont14,NJ,07628,1,senior,BS,"Computer Science",NULL,2018888114,6,9,1998
+855000015,sajank15,Kefin15,K15,Sajan15,sajank15@student.wpunj.edu,"Lafayette15 Ave",Dumont15,NJ,07628,1,Junior,BS,"Computer Science",NULL,2018888115,7,8,1998
+855000016,sajank16,Kefin16,K16,Sajan16,sajank16@student.wpunj.edu,"Lafayette16 Ave",Dumont16,NJ,07628,1,Junior,BS,"Computer Science",NULL,2018888116,8,1,1998
+855000017,sajank17,Kefin17,K17,Sajan17,sajank17@student.wpunj.edu,"Lafayette17 Ave",Dumont17,NJ,07628,1,freshman,BS,"Computer Science",NULL,2018888117,9,1,1998
+855000018,sajank18,Kefin18,K18,Sajan18,sajank18@student.wpunj.edu,"Lafayette18 Ave",Dumont18,NJ,07628,1,Junior,BS,"Computer Science",NULL,2018888118,10,1,1998
+855000019,sajank19,Kefin19,K19,Sajan19,sajank19@student.wpunj.edu,"Lafayette19 Ave",Dumont19,NJ,07628,1,Junior,BS,"Computer Science",NULL,2018888119,12,1,1998
+855000020,sajank20,Kefin20,K20,Sajan20,sajank20@student.wpunj.edu,"Lafayette20 Ave",Dumont20,NJ,07628,1,Junior,BS,"Computer Science",NULL,2018888120,13,1,1980
+855000024,sajank24,Kefin24,K24,Sajan24,sajank24@student.wpunj.edu,"Lafayette24 Ave",Dumont24,NJ,07628,1,senior,BS,"Computer Science",NULL,2018888124,14,8,1961
+855000025,sajank25,Kefin25,K25,Sajan25,sajank25@student.wpunj.edu,"Lafayette25 Ave",Dumont25,NJ,07628,1,senior,BS,"Computer Science",NULL,2018888125,15,6,1921
+855000026,sajank26,Kefin26,K26,Sajan26,sajank26@student.wpunj.edu,"Lafayette26 Ave",Dumont26,NJ,07628,1,freshman,BS,"Computer Science",NULL,2018888126,16,7,1920
+855000027,sajank27,Kefin27,K27,Sajan27,sajank27@student.wpunj.edu,"Lafayette27 Ave",Dumont27,NJ,07628,1,senior,BS,"Computer Science",NULL,2018888127,16,8,2001
+855000028,sajank28,Kefin28,K28,Sajan28,sajank28@student.wpunj.edu,"Lafayette28 Ave",Dumont28,NJ,07628,1,senior,BS,"Computer Science",NULL,2018888128,16,3,2001
+855000029,sajank29,Kefin29,K29,Sajan29,sajank29@student.wpunj.edu,"Lafayette29 Ave",Dumont29,NJ,07628,1,freshman,BS,"Computer Science",NULL,2018888129,18,4,2001
+855000100,toxtlek,Kevin,KT,Toxtle,ktoxtle@student.wpunj.edu,"45 Leonard St","New York",NY,10013,1,senior,BA,Math,NULL,973720296,30,4,2001
+855000210,Lt16,Lucas,LT,Thomas,lucasthomas@student.wpunj.edu,"40 Cambridge St","Englewood Cliffs",NJ,07620,1,senior,BA,Math,"Computer Science",973720390,11,4,2001
+855000212,Brady,Yan,BY,Brad,brady@student.wpunj.edu,"14 turtle st",Ringwood,NJ,07645,1,Freshman,BS,Math,NULL,973720392,7,4,2001
+855000213,smithj,John,JS,Smith,smithj@gmail.com,"99 violet ct",Bergenfield,NJ,07621,1,Senior,BS,Math,NULL,973720393,4,4,2001
+855000214,smithm,Mathew,MS,Smith,smithm@gmail.com,"82 drew st",Dumont,NJ,07628,1,Junior,BS,Math,"Computer Science",973720394,24,4,2001
+855002141,vchan,Vicky,VC,chan,vickyc@hotmail.com,"730 vine st","Horn Lake",MS,38666,0,Junior,BS,Biology,"Computer Science",973720451,17,4,2001
+855002142,larryc,Choe,CL,larry,ChoeL@aol.com,"451 6th st",Hillsboro,OR,97124,0,freshmen,BS,Biology,"Computer Science",973720452,17,4,2001
+855002143,KayW,Whyte,L,Kay,whyte123@yahoo.com,"999 hickory lane",clermont,FL,34117,0,senior,BS,Biology,"Computer Science",973720453,19,4,2001
+855002144,Ugoa,Anna,N,Ugo,ugoa@student.wpunj.edu,"43 pomton rd",fairlawn,NJ,07655,0,Junior,BS,Biology,NULL,973720454,19,4,2001
+855002146,oliverd,David,Nunez,Oliver,oliverd@student.wpunj.edu,"29 maintain line",garfield,PA,09889,0,Junior,BS,Biology,NULL,973720456,16,4,1998
